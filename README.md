@@ -1,3 +1,10 @@
+### step 0 preparatory work
+
+[page-monitor](https://github.com/nodejs-xx/page-monitor)   
+[pmui](https://github.com/nodejs-xx/pmui)
+
+
+
 ### Step 1. generate monitor script
 
 ```bash
